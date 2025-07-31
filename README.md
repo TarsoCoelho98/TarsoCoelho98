@@ -53,11 +53,11 @@ Hello! I'm a Brazilian software developer with experience in corporate applicati
 
 
 
-\- 📧 Email: \[tarsocoelho98@gmail.com]
+\- 📧 \[Email] (tarsocoelho98@gmail.com)
 
-\- 🔗 \[LinkedIn](https://www.linkedin.com/in/tarso-coelho-365438176)  
+\- 🔗 \[LinkedIn] (https://www.linkedin.com/in/tarso-coelho-365438176)  
 
-\- 🎥 \[YouTube](https://www.youtube.com/@tarsocoelho6852)
+\- 🎥 \[YouTube] (https://www.youtube.com/@tarsocoelho6852)
 
 
 
